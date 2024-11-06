@@ -1,0 +1,6 @@
+node_modules/
+.env
+uploads/
+db/mock-db-messages.js
+db/mock-db-listings.js
+public/assets/
